@@ -116,48 +116,8 @@ scipy>=1.9.0
 plotly>=5.13.0
 ```
 
-## Contributing
-
-We welcome contributions to improve the Black-Scholes Explorer! Here's how you can help:
-
-1. Fork the repository
-2. Create your feature branch:
-```bash
-git checkout -b feature/AmazingFeature
-```
-
-3. Commit your changes:
-```bash
-git commit -m 'Add some AmazingFeature'
-```
-
-4. Push to the branch:
-```bash
-git push origin feature/AmazingFeature
-```
-
-5. Open a Pull Request
-
-Please ensure your PR:
-- Includes a clear description of the changes
-- Updates documentation as needed
-- Adds tests for new features
-- Follows the existing code style
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-A special thanks to:
-- Fischer Black, Myron Scholes, and Robert Merton for developing the Black-Scholes model
-- The Streamlit team for their excellent framework
-- All contributors and users who help improve this tool
-
 ## Contact & Support
 
-- **Issues**: Please report bugs and suggest features through [GitHub Issues](https://github.com/yourusername/black-scholes-explorer/issues)
 - **Email**: sayam.palrecha@gwu.edu
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
@@ -166,7 +126,7 @@ A special thanks to:
 If you use this tool in your research, please cite it as:
 
 ```bibtex
-@software{black_scholes_explorer,
+@software{black_scholes_model,
   author = {Sayam Palrecha},
   title = {Black-Scholes Option Pricing Model Explorer},
   year = {2024},
@@ -176,5 +136,5 @@ If you use this tool in your research, please cite it as:
 
 ---
 <div align="center">
-  Created with ❤️ for the options trading community
+  Made by Sayam Palrecha
 </div>
