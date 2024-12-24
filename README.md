@@ -35,7 +35,7 @@ The analysis dashboard enables users to process and visualize their own options 
 - Export processed results for further analysis
 
 ## Dataset
-Synthetic data made using python which has 6300 rows and 12 columns 
+Synthetic data made using python which has 6300 rows and 12 columns <br>
 Check the Data_generator file for the code to generating the data or else the my_options_data.csv file for the project 
 
 ## Installation
