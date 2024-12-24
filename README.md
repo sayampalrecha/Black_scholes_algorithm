@@ -158,7 +158,7 @@ A special thanks to:
 ## Contact & Support
 
 - **Issues**: Please report bugs and suggest features through [GitHub Issues](https://github.com/yourusername/black-scholes-explorer/issues)
-- **Email**: your.email@example.com
+- **Email**: sayam.palrecha@gwu.edu
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ## Citation
@@ -167,10 +167,10 @@ If you use this tool in your research, please cite it as:
 
 ```bibtex
 @software{black_scholes_explorer,
-  author = {Your Name},
+  author = {Sayam Palrecha},
   title = {Black-Scholes Option Pricing Model Explorer},
   year = {2024},
-  url = {https://github.com/yourusername/black-scholes-explorer}
+  url = {https://github.com/sayam_palrecha/Black_scholes_algorithm}
 }
 ```
 
