@@ -116,23 +116,10 @@ scipy>=1.9.0
 plotly>=5.13.0
 ```
 
-## Contact & Support
+## Contact 
 
 - **Email**: sayam.palrecha@gwu.edu
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
-## Citation
-
-If you use this tool in your research, please cite it as:
-
-```bibtex
-@software{black_scholes_model,
-  author = {Sayam Palrecha},
-  title = {Black-Scholes Option Pricing Model Explorer},
-  year = {2024},
-  url = {https://github.com/sayam_palrecha/Black_scholes_algorithm}
-}
-```
+- **Website**: sayam.me
 
 ---
 <div align="center">
