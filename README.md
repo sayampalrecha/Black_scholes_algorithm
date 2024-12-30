@@ -1,4 +1,4 @@
-# Black-Scholes Option Pricing Model Explorer
+# Black-Scholes-Algorithm Python Implementation and Streamlit Interface for Option Pricing
 
 ## Overview
 
@@ -97,11 +97,12 @@ Required columns:
 ## Project Structure
 
 ```
-black-scholes-explorer/
+black-scholes-algorithm-python-implementation/
 ├── pages/
-│   ├── 1_Model_Introduction.py   # Educational content and interactive demos
-│   ├── 2_Calculator.py           # Option pricing calculator
-│   └── 3_Data_Analysis.py        # Data upload and analysis dashboard
+│   ├── 1 Introduction.py   # Educational content and interactive demos
+│   ├── 2 Calculator.py           # Option pricing calculator
+│   └── 3 Data Analysis.py       # Data upload and analysis dashboard
+|   └── 4 Validate.py       # Validate the csv file that the user will input 
 ├── models/
 │   └── black_scholes.py          # Core Black-Scholes implementation
 ├── Home.py                       # Main application page
