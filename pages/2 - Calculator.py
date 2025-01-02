@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import plotly.graph_objects as go
 
-# Add the project root to Python path
 
 from models.black_scholes_model import BlackScholes
 
