@@ -1,5 +1,13 @@
 import numpy as np
+import scipy 
 from scipy.stats import norm
+import pandas as pd
+
+"""
+The code provides various variables used for black scholes model in order to calculate the call and put price for options
+"""
+
+
 
 class BlackScholes:
     """
