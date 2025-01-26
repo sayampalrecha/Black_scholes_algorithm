@@ -7,7 +7,7 @@ import pandas as pd
 
 # Header
 st.title("About Me")
-col1, col2 = st.columns([2, 1])
+col1 = st.columns([1, 1])
 
 with col1:
     st.header("Sayam Palrecha")
@@ -21,8 +21,6 @@ with col1:
     Leadership and communication (Lead the project team and AI-ML lead of the college AI club) making me an all-around and worthy candidate.
     """)
 
-with col2:
-  st.image("profile.jpg",caption="This is me :)")
 # Skills section
 st.header("Skills")
 col4, col5 = st.columns(2)
