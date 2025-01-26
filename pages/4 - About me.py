@@ -22,7 +22,7 @@ with col1:
     """)
 
 with col2:
-  st.image("/Users/sayam_palrecha/my_project/profile.jpg",caption="This is me :)")
+  st.image("/pages/profile.jpg",caption="This is me :)")
 # Skills section
 st.header("Skills")
 col4, col5 = st.columns(2)
