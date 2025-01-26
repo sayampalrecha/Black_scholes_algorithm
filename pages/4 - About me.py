@@ -7,11 +7,11 @@ import pandas as pd
 
 # Header
 st.title("About Me")
-col1 = st.columns(1)
 
-with col1:
-    st.header("Sayam Palrecha")
-    st.write("""
+
+
+st.header("Sayam Palrecha")
+st.write("""
     I am Sayam Palrecha, recently admitted to the M.S Data Science program at George Washington University (GWU) joining this Fall.
 
     I possess a strong foundation in Machine Learning thanks to my experience in two research internships.
@@ -19,7 +19,7 @@ with col1:
     My key strengths include: Deep Neural Networks based algorithms (Worked on Computer Vision and ML projects)
 
     Leadership and communication (Lead the project team and AI-ML lead of the college AI club) making me an all-around and worthy candidate.
-    """)
+""")
 
 # Skills section
 st.header("Skills")
