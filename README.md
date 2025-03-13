@@ -5,7 +5,7 @@
 This interactive web application provides a comprehensive platform for understanding, calculating, and analyzing option prices using the Black-Scholes model. Whether you're a student learning about options pricing, a trader analyzing market data, or a researcher exploring option characteristics, this tool offers intuitive visualizations and powerful analysis capabilities.
 
 <div align="center">
-  <img src="path_to_your_app_screenshot.png" alt="Black-Scholes Explorer Interface" width="800"/>
+  <img src="https://blackscholesalgorithm.streamlit.app/" alt="Black-Scholes Explorer Interface" width="800"/>
 </div>
 
 ## Features
