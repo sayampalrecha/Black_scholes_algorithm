@@ -8,6 +8,7 @@ This interactive web application provides a comprehensive platform for understan
 
 ## Features
 
+
 ### 1. Model Introduction 📚
 The introduction page serves as an educational resource, helping users understand the theoretical foundations of the Black-Scholes model through:
 
